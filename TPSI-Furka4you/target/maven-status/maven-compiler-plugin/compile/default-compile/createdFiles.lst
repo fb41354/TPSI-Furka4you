@@ -1,0 +1,9 @@
+wizut\tpsi\ogloszenia\services\OffersService.class
+wizut\tpsi\ogloszenia\web\OfferFilter.class
+wizut\tpsi\ogloszenia\jpa\FuelType.class
+wizut\tpsi\ogloszenia\jpa\BodyStyle.class
+wizut\tpsi\ogloszenia\jpa\CarModel.class
+wizut\tpsi\ogloszenia\jpa\Offer.class
+wizut\tpsi\ogloszenia\jpa\CarManufacturer.class
+wizut\tpsi\ogloszenia\OgloszeniaApplication.class
+wizut\tpsi\ogloszenia\HomeController.class
